@@ -1,1 +1,1 @@
-# blockchain_rust
+# blockchain-rust
